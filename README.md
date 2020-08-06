@@ -8,7 +8,7 @@
 
 ## Description 
 
-In this application the user will be able to keep track of all of their transactions/expenses online and offline.  This application is deployed through Heroku.
+In this application the user will be able to keep track of all of their transactions/expenses online and offline.  This application is deployed through [Heroku]().
 
 ## Table of Contents
 
